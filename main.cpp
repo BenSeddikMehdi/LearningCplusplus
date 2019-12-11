@@ -4,9 +4,14 @@
 using namespace std;
 
 int main() {
-    cout << "Hola Amigos" << endl;
-    cout << "Min of int " << numeric_limits <unsigned int>::min() << endl;
-    cout << "Max of int " << numeric_limits <unsigned int>::max() << endl;
-
+    cout << "Enter a number: " << endl;
+    string a, b;
+    cin >> a;
+    cout << "Enter another number: " << endl;
+    cin >> b;
+    int aa = 0, bb = 0;
+    aa = stoi(a);
+    bb = stoi(b);
+    cout << aa + bb << endl;
     return 0;
 }
