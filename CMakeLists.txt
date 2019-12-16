@@ -3,4 +3,4 @@ project(LearningCplusplus)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(LearningCplusplus main.cpp)
+add_executable(LearningCplusplus main.cpp testBench.h)
