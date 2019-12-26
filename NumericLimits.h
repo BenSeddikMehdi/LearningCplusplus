@@ -8,6 +8,5 @@
 #include <iostream>
 
 
-extern void numericLimits(const string& varType);
 
 #endif //LEARNINGCPLUSPLUS_NUMERICLIMITS_H
