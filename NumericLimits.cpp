@@ -7,4 +7,3 @@
 
 // Display region of data types
 
-}

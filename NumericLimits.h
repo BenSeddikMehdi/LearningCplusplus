@@ -7,6 +7,4 @@
 
 #include <iostream>
 
-
-
 #endif //LEARNINGCPLUSPLUS_NUMERICLIMITS_H
