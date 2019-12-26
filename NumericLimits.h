@@ -7,9 +7,7 @@
 
 #include <iostream>
 
-using namespace std;
-#define display(msg) cout<<msg<<endl;
 
-extern int numericLimits(string varType);
+extern void numericLimits(const string& varType);
 
 #endif //LEARNINGCPLUSPLUS_NUMERICLIMITS_H
