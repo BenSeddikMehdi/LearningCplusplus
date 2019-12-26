@@ -2,7 +2,7 @@
 #include <limits>
 
 using namespace std;
-#define display(msg) cout<<msg<<endl;
+#define display(msg) cout<<msg<<endl
 
 int main() {
     uint16_t arrayNum[3][2][2] = {{{1, 2}, {3, 4}}
